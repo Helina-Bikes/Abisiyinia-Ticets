@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "864485213861",
+    "firebase_url": "https://heluflutter-default-rtdb.firebaseio.com",
+    "project_id": "heluflutter",
+    "storage_bucket": "heluflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864485213861:android:1f332a9bdeabe2deca2f4c",
+        "android_client_info": {
+          "package_name": "com.example.abyssinia_tickets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rSXZWsiHYUByh_yrCki6WBuKY2k6AKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864485213861:android:5f9c4ee184bc5fcaca2f4c",
+        "android_client_info": {
+          "package_name": "com.example.cinema"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rSXZWsiHYUByh_yrCki6WBuKY2k6AKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864485213861:android:fd84967ef145c8caca2f4c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rSXZWsiHYUByh_yrCki6WBuKY2k6AKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
